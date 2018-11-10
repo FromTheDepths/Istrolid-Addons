@@ -1,6 +1,6 @@
     parts.DroneBody.prototype.name = "DroneBody";
  
-    parts.DroneBody.prototype.desc = "A Week but independent drone, that needs a mounted weapon.";
+    parts.DroneBody.prototype.desc = "A Weak but independent drone, that needs a mounted weapon.";
  
     parts.DroneBody.prototype.hp = 18;
  
@@ -32,8 +32,8 @@
  
     parts.DroneBody.prototype.storeEnergy = 4200
 	
-	// Do Not Touch
+    // Do Not Touch
 	
-	parts.DroneBody.prototype.disable = false;
+    parts.DroneBody.prototype.disable = false;
  
     parts.DroneBody.prototype.hide = false;
