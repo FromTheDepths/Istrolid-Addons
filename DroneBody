@@ -1,10 +1,10 @@
     parts.DroneBody.prototype.name = "DroneBody";
  
-    parts.DroneBody.prototype.desc = "An independent drone, that needs a mounted weapon.";
+    parts.DroneBody.prototype.desc = "A Week but independent drone, that needs a mounted weapon.";
  
-    parts.DroneBody.prototype.hp = 25;
+    parts.DroneBody.prototype.hp = 18;
  
-    parts.DroneBody.prototype.cost = 40;
+    parts.DroneBody.prototype.cost = 35;
  
     parts.DroneBody.prototype.image = "droneBody.png";
  
@@ -14,7 +14,7 @@
  
     parts.DroneBody.prototype.attach = false;
  
-    parts.DroneBody.prototype.solid = false;
+    parts.DroneBody.prototype.solid = true;
  
     parts.DroneBody.prototype.size = [4, 4];
  
@@ -24,14 +24,16 @@
  
     parts.DroneBody.prototype.stripe = false;
  
-    parts.DroneBody.prototype.thrust = 88;
+    parts.DroneBody.prototype.thrust = 68;
  
-    parts.DroneBody.prototype.turnSpeed = 6;
+    parts.DroneBody.prototype.turnSpeed = 2;
  
-    parts.DroneBody.prototype.disable = false;
+    parts.DroneBody.prototype.genEnergy = 4;
+ 
+    parts.DroneBody.prototype.storeEnergy = 4200
+	
+	// Do Not Touch
+	
+	parts.DroneBody.prototype.disable = false;
  
     parts.DroneBody.prototype.hide = false;
- 
-    parts.DroneBody.prototype.genEnergy = 5;
- 
-    parts.DroneBody.prototype.storeEnergy = 8200
