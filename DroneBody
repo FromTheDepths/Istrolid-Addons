@@ -2,38 +2,38 @@
  
     parts.DroneBody.prototype.desc = "A Weak but independent drone, that needs a mounted weapon.";
  
-    parts.DroneBody.prototype.hp = 18;
+    parts.DroneBody.prototype.hp = 11;
  
-    parts.DroneBody.prototype.cost = 35;
- 
-    parts.DroneBody.prototype.image = "droneBody.png";
- 
-    parts.DroneBody.prototype.mount = true;
- 
-    parts.DroneBody.prototype.arc = 90;
- 
-    parts.DroneBody.prototype.attach = false;
- 
-    parts.DroneBody.prototype.solid = true;
- 
-    parts.DroneBody.prototype.size = [4, 4];
- 
-    parts.DroneBody.prototype.mass = 32;
- 
-    parts.DroneBody.prototype.useEnergy = 9;
- 
-    parts.DroneBody.prototype.stripe = false;
- 
-    parts.DroneBody.prototype.thrust = 68;
- 
-    parts.DroneBody.prototype.turnSpeed = 2;
- 
-    parts.DroneBody.prototype.genEnergy = 4;
- 
-    parts.DroneBody.prototype.storeEnergy = 4200
-	
-    // Do Not Touch
-	
-    parts.DroneBody.prototype.disable = false;
- 
-    parts.DroneBody.prototype.hide = false;
+	    parts.DroneBody.prototype.cost = 30;
+
+	    parts.DroneBody.prototype.image = "droneBody.png";
+
+	    parts.DroneBody.prototype.mount = true;
+
+	    parts.DroneBody.prototype.arc = 90;
+
+	    parts.DroneBody.prototype.attach = false;
+
+	    parts.DroneBody.prototype.solid = true;
+
+	    parts.DroneBody.prototype.size = [4, 4];
+
+	    parts.DroneBody.prototype.mass = 32;
+
+	    parts.DroneBody.prototype.useEnergy = 9;
+
+	    parts.DroneBody.prototype.stripe = false;
+
+	    parts.DroneBody.prototype.thrust = 75;
+
+	    parts.DroneBody.prototype.turnSpeed = 3;
+
+	    parts.DroneBody.prototype.genEnergy = 4;
+
+	    parts.DroneBody.prototype.storeEnergy = 4200
+
+	    // Do Not Touch
+
+	    parts.DroneBody.prototype.disable = false;
+
+	    parts.DroneBody.prototype.hide = false;
