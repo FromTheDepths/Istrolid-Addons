@@ -1,0 +1,9 @@
+parts.Engine01.prototype.image = "engine01alt.png"; parts.Engine01.prototype.disable = parts.Engine01.prototype.hide = false; parts.Engine01.prototype.tab = "engines";
+parts.Engine02.prototype.image = "engine02alt.png"; parts.Engine02.prototype.disable = parts.Engine02.prototype.hide = false; parts.Engine02.prototype.tab = "engines";
+parts.Engine03.prototype.image = "engine03alt.png"; parts.Engine03.prototype.disable = parts.Engine03.prototype.hide = false; parts.Engine03.prototype.tab = "engines";
+parts.Engine04.prototype.image = "engine04alt.png"; parts.Engine04.prototype.disable = parts.Engine04.prototype.hide = false; parts.Engine04.prototype.tab = "engines";
+parts.Engine05.prototype.image = "engine07.png"; parts.Engine05.prototype.disable = parts.Engine05.prototype.hide = false; parts.Engine05.prototype.tab = "engines";
+parts.Engine06.prototype.image = "engine09.png"; parts.Engine06.prototype.disable = parts.Engine06.prototype.hide = false; parts.Engine06.prototype.name = "Quaterzul"; parts.Engine06.prototype.desc = "A medium thruster good for fast ships."; parts.Engine06.prototype.tab = "engines";
+parts.Engine07.prototype.image = "engine07alt.png"; parts.Engine07.prototype.disable = parts.Engine07.prototype.hide = false; parts.Engine07.prototype.tab = "engines";
+parts.Engine08.prototype.image = "engine08alt.png"; parts.Engine08.prototype.disable = parts.Engine08.prototype.hide = false; parts.Engine08.prototype.tab = "engines";
+parts.Engine09.prototype.image = "engine09alt.png"; parts.Engine09.prototype.disable = parts.Engine09.prototype.hide = false; parts.Engine09.prototype.tab = "engines";
