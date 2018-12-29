@@ -5,4 +5,5 @@ Addons For Istrolid (a game)
    - If steam press f10
    - If browser press f12
    - Go to console and past raw code (of what you whant to add) in there
-   - Close and use new drone
+   - Close the new tab and have fun with what you added
+   - not all thing can be used in multiplayer server
